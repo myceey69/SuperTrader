@@ -1,0 +1,5 @@
+"""Dark financial-dashboard palette and fonts."""
+BG, PANEL, CARD, CARD_HI = "#111418", "#181c22", "#20262e", "#2a323c"
+TEXT, MUTED = "#e6e8eb", "#8b949e"
+GREEN, RED, ACCENT, AMBER = "#2ecc71", "#ef5350", "#3b82f6", "#f5a524"
+FONT = "Segoe UI"
