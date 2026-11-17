@@ -27,7 +27,7 @@ Tests: `python -m pytest -q`
 ## Layout
 `core/` backend (no GUI imports) | `gui/` CustomTkinter pages | `tests/` pytest | `data/` synthetic CSVs
 
-## prompt 
+## next prompt 
 You are a senior Python/ML engineer and CS professor. Attached is AI_Portfolio_Optimizer_draft.zip, a working but unfinished
 Assignment 3 project (CustomTkinter dark GUI, yfinance, PyTorch ANN, Random Forest, Gemini sentiment, ranking, allocation,
 Dijkstra trade planner). Read README.md first. Do NOT rewrite from scratch: extend the existing modules, keep interfaces
